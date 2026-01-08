@@ -1,0 +1,4 @@
+baseURL: https://beckhamster.github.io/
+languageCode: en-us
+title: Beckhamster Blog
+theme: ["PaperMod"]
